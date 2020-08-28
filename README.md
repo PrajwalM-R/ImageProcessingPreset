@@ -33,7 +33,7 @@ Results folder have results for all test images and videos.
 Install necessary python libraries before running.
 
 ## Image Copyrights
-All test images and videos are my personal capture. 
+All test images and videos are my captures. 
 If using it in a paper/project, provide necessary credits. (Email me at prajwalmr4@gmail.com for image usage permissions)
 
 #### (Still Ongoing Work)
