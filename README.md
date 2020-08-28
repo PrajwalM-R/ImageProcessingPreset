@@ -20,7 +20,7 @@
 - Moody Edit
 - Highlights/Shadows
 - Whites/Blacks
-- Exposure Bracketting
+- Exposure Bracketting (HDR)
 
 Note - Presets are developed by using a combination of the above tools.
 
