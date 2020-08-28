@@ -1,4 +1,4 @@
-# ImageProcessingPreset
+# ImageProcessingPreset 
 Creating Python version of Adobe Lightroom tools and presets.
 
 ### Implemented Image Processing tools
