@@ -28,12 +28,12 @@ Note - Presets are developed by using a combination of the above tools.
 - Converting a Timelapse video to a long exposure photo
 
 ## Usage
-Use Proper file locations and files.
-Results folder have results for all test images and videos.
-Install necessary python libraries before running.
+- Use Proper file locations and files.
+- Results folder have results for all test images and videos.
+- Install necessary python libraries before running.
 
 ## Image Copyrights
-All test images and videos are my captures. 
-If using it in a paper/project, provide necessary credits. (Email me at prajwalmr4@gmail.com for image usage permissions)
+- All test images and videos are my captures. 
+- If using it in a paper/project, provide necessary credits. (Email me at prajwalmr4@gmail.com for image usage permissions)
 
 #### (Still Ongoing Work)
