@@ -1,6 +1,6 @@
 # ImageProcessingPreset 
 - Creating Python version of Adobe Lightroom tools and presets.
-- Also includes, exposure bracketing and converting timelapse into a long exposure photo.(Computational Photography)
+- Also includes, exposure bracketing(HDR) and converting timelapse into a long exposure photo.(Computational Photography)
 
 ### Implemented Image Processing tools
 
